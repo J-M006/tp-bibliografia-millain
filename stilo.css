@@ -6,3 +6,7 @@ body {
 footer{
     text-align: center;
 }
+img{
+    max-width: 250px;
+    max-height: 250px;
+}
