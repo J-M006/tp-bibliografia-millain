@@ -10,3 +10,7 @@ img{
     max-width: 250px;
     max-height: 250px;
 }
+h1{
+    background-color: #9c0505;
+    text-align: start;
+}
